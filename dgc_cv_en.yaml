@@ -108,6 +108,33 @@ cv:
 
 design:
   theme: engineeringclassic
+  page:
+    size: a4
+    top_margin: 1cm
+    bottom_margin: 1cm
+    left_margin: 1.2cm
+    right_margin: 1.2cm
+  header:
+    alignment: center
+    connections:
+      show_icons: true
+  links:
+    underline: false
+    show_external_link_icon: false
+  colors:
+    name: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+  typography:
+    font_family:
+      body: Montserrat
+      name: Montserrat
+      connections: Montserrat
+      section_titles: Montserrat
+    font_size:
+      body: 8pt
+      name: 29pt
 
 locale:
   language: english
