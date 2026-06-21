@@ -7,20 +7,20 @@
 
 
 # Summary
-Senior Data Analyst & AI Engineer with experience in financial analytics, machine learning and GenAI solutions at BCP, Peru's largest bank. Led the end-to-end development and deployment of a conversational AI agent for 200+ wholesale banking users using Databricks and Claude Sonnet (Anthropic). Skilled in data pipeline automation, predictive modeling and business analytics using Python, SQL, Polars and Power BI. Targeting international opportunities in AI Engineering, Machine Learning and Data Platforms.
+Senior Data Analyst & AI Engineer with experience in financial analytics, machine learning, and enterprise GenAI solutions in banking. Currently leading AI initiatives at BCP, including the end-to-end design and deployment of a conversational AI agent for wholesale banking using Databricks, LangGraph, MLflow, and Claude Sonnet. Combines business, analytics, and data engineering expertise to build scalable data products, predictive models, and AI systems that improve operational efficiency and decision-making. Interested in international opportunities in AI Engineering, Machine Learning, and Data Platforms.
 
 # Experience
 ## **Senior Data Analyst & AI Engineer**, Banco de Crédito del Perú (BCP) -- Lima, Peru
 
 May 2025 – Present
 
-- Built and deployed an end-to-end conversational AI agent for 200+ wholesale banking users using Databricks and Claude Sonnet (Anthropic).
+- Built the architecture of an enterprise conversational AI agent, including entity resolution, multi-intent routing, tool orchestration, serving, and observability, improving accuracy, traceability, and operational robustness.
 
-- Automated data extraction, transformation and analysis pipelines using SQL, Python and Databricks, reducing manual work and operational times.
+- Designed and deployed an end-to-end LLM-powered conversational agent for wholesale banking using Databricks, LangGraph, MLflow, and Claude Sonnet, reducing analysis time from hours or days to approximately 45 seconds for more than 200 projected users.
 
-- Designed and implemented predictive models for rate optimization and customer behavior analysis.
+- Automated extraction, transformation, and analytical pipelines using SQL, Python, and Databricks, reducing operational workload and manual processes.
 
-- Built analytical dashboards for commercial performance, profitability and strategic metrics monitoring in wholesale banking.
+- Developed dashboards and analytical solutions for pricing, commercial performance, profitability, and strategic metrics monitoring.
 
 
 
@@ -28,9 +28,11 @@ May 2025 – Present
 
 Jan 2025 – May 2025
 
-- Developed ETL processes into a Data Warehouse using SQL Server stored procedures and data modeling.
+- Developed ETL processes into a Data Warehouse using SQL Server stored procedures and relational data modeling.
 
-- Automated analytical reports for credit and debit card portfolio monitoring.
+- Automated analytical reporting for credit and debit card portfolio monitoring, improving data availability and operational control.
+
+- Contributed to data solutions focused on reporting and business analytics.
 
 
 
@@ -38,13 +40,13 @@ Jan 2025 – May 2025
 
 July 2024 – Jan 2025
 
-- Automated ETL processes via Power Automate for statistical model inputs and analytical workflows.
+- Automated ETL processes using Power Automate and Databricks to support statistical models and recurring analytical workflows.
 
-- Integrated Experian API using PySpark for credit score extraction, significantly reducing processing times.
+- Integrated Experian APIs with PySpark for credit score extraction, significantly reducing processing times.
 
-- Built advanced Databricks SQL queries for SBS regulatory reporting.
+- Developed advanced Databricks SQL queries for regulatory reporting to the SBS.
 
-- Applied XGBoost and Logistic Regression models to predict customer payment default probability.
+- Implemented XGBoost and Logistic Regression models for payment default prediction.
 
 
 
@@ -52,25 +54,27 @@ July 2024 – Jan 2025
 
 May 2023 – Mar 2024
 
-- Delivered benchmark analysis generating 3M+ USD in marginal financial income for banking clients across LatAm.
+- Optimized analytical and pricing methodologies that generated more than USD 3M in incremental revenue for financial institutions across Latin America.
 
-- Built a propensity model in Python (logistic regression) validated through A/B testing to identify high-probability credit customers.
+- Developed propensity models in Python using Logistic Regression and validated results through A/B testing.
 
-- Conducted SQL and Power BI analyses for banking process improvements across Peru, Mexico, Canada and Panama.
+- Conducted SQL and Power BI analyses to improve financial processes in Peru, Mexico, Canada, and Panama.
 
 
 
-## **Python & SQL Instructor**, DMC Perú -- Lima, Peru
+## **Python & SQL Instructor (Part-time)**, DMC Perú -- Lima, Peru
 
 Nov 2024 – May 2026
 
-- Part-time instructor for Python and SQL courses focused on analytics, applied statistics and data storytelling.
+- Delivered Python and SQL courses focused on analytics, applied statistics, automation, and data storytelling.
+
+- Designed practical business-oriented learning sessions for data professionals.
 
 
 
 # Education
-## **Universidad Nacional de Ingeniería (UNI)**, Specialization in Business Intelligence & Business Analytics -- Lima, Peru
-Jan 2024 – Jan 2025
+## **Universidad Nacional de Ingeniería (UNI)**, Specialization Program in Business Intelligence & Business Analytics -- Lima, Peru
+Nov 2024 – May 2026
 
 - GPA: Above 18/20
 
@@ -79,24 +83,28 @@ Jan 2024 – Jan 2025
 ## **Universidad Peruana de Ciencias Aplicadas (UPC)**, Bachelor's Degree in Finance with Data Science Specialization -- Lima, Peru
 Jan 2019 – Dec 2024
 
-- GPA: Above 16/20 — Dean's List, Top 10%
+- GPA: Above 16/20
+
+- Dean's List and Top 10% of class
 
 
 
 # Certifications
 - **Pricing & Revenue Management** — Pacifico Business School
 
-- **AI Engineer Diplomado** — DMC Perú (in progress)
+- **AI Engineer Diploma Program** — DMC Perú (In Progress)
 
 # Skills
-**AI / GenAI:** LLMs, Claude (Anthropic), Prompt Engineering, Agentic AI, Databricks, MLflow
+**AI / GenAI:** LLMs, Agentic AI, Prompt Engineering, LangGraph, Claude Sonnet, Databricks, MLflow
 
-**Programming:** Python (Pandas, Polars, Scikit-Learn, XGBoost, PySpark), R, SQL
+**Machine Learning:** Scikit-Learn, XGBoost, Logistic Regression, Predictive Modeling, Model Evaluation
 
-**Databases:** Oracle PL/SQL, SQL Server, MySQL, Databricks SQL
+**Programming & Data:** Python, SQL, PySpark, Pandas, Polars, R
 
-**Visualization:** Power BI, Tableau, Matplotlib, Plotly
+**Databases:** Databricks SQL, SQL Server, Oracle PL/SQL, MySQL
 
-**Cloud & Tools:** Azure, Databricks, Power Automate, Git, Model Serving
+**BI & Visualization:** Power BI, Tableau, Plotly, Matplotlib
 
-**Languages:** Spanish (native), English (advanced), French (advanced), Portuguese (intermediate)
+**Cloud & Tools:** Azure, Databricks Model Serving, Git, Power Automate
+
+**Languages:** Spanish (Native), English (Advanced), French (Advanced), Portuguese (Intermediate)
