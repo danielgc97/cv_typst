@@ -12,30 +12,41 @@ cv:
 
   sections:
     Resumen:
-      - "Senior Data Analyst & AI Engineer con experiencia en analytics financiero,
-        machine learning y soluciones GenAI dentro de BCP.
-        Lideré el desarrollo y despliegue de un agente conversacional basado en LLMs para
-        más de 200 usuarios de banca mayorista utilizando Databricks y Claude Sonnet
-        (Anthropic). Experiencia en automatización de pipelines de datos, modelamiento
-        predictivo y analítica de negocio utilizando Python, SQL, Polars y Power BI.
-        Interesado en oportunidades internacionales orientadas a AI Engineering,
-        Machine Learning y Data Platforms."
+      - "AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a
+        Subgerente Adjunto en 1 año y medio), especializado en el diseño, despliegue y
+        gobierno end-to-end de soluciones de IA generativa para banca mayorista. Actualmente
+        lidero como Product Owner la arquitectura, puesta en producción y trazabilidad de un
+        agente conversacional basado en LLMs (Claude Sonnet, Anthropic) sobre Azure Databricks,
+        con MLflow para la gestión del ciclo de vida de modelos, utilizado por más de 200
+        usuarios internos de banca mayorista. Experiencia combinada en machine learning,
+        modelamiento predictivo, ingeniería de datos y agentes de IA utilizando Python, SQL,
+        PySpark y Power BI. Interesado en oportunidades internacionales orientadas a
+        Data Science y AI Engineering."
 
     Experiencia:
       - company: Banco de Crédito del Perú (BCP)
-        position: Senior Data Analyst & AI Engineer
+        position: Data & AI Engineer, Subgerente Adjunto
         start_date: 2025-05
         end_date: present
         location: Lima, Perú
         highlights:
-          - Desarrollo y despliegue end-to-end de un agente conversacional basado en LLMs
-            para más de 200 usuarios de banca mayorista utilizando Databricks y Claude Sonnet (Anthropic).
-          - Automatización de pipelines de extracción, transformación y análisis de datos
-            mediante SQL, Python y Databricks, optimizando tiempos operativos y reduciendo trabajo manual.
-          - Diseño e implementación de modelos predictivos para optimización de tasas
-            y evaluación de comportamiento de clientes.
-          - Construcción de dashboards analíticos para monitoreo de desempeño comercial,
-            rentabilidad y métricas estratégicas de Banca Mayorista.
+          - Trayectoria ascendente de Data Analyst a Subgerente Adjunto en 1 año y medio
+            (Staff → Senior → Subgerente Adjunto), asumiendo actualmente el rol de Product
+            Owner (PO) de la solución de IA conversacional del banco.
+          - Responsabilidad end-to-end sobre el ciclo de release, despliegue a producción y
+            trazabilidad de un agente conversacional basado en LLMs (Claude Sonnet,
+            Anthropic) para más de 200 usuarios internos de banca mayorista, utilizando
+            Azure Databricks.
+          - Diseño de la arquitectura del agente, incluyendo resolución de entidades,
+            enrutamiento multi-intención y orquestación de herramientas (tool calling), e
+            implementación de prácticas de MLOps y MLflow para versionado, monitoreo y
+            trazabilidad de modelos en producción.
+          - Definición de roadmap, priorización de backlog y métricas de observabilidad y
+            calidad de servicio (adopción, latencia, precisión) para garantizar la
+            confiabilidad de la solución.
+          - Diseño de modelos predictivos para optimización de tasas y análisis de precios,
+            y construcción de dashboards analíticos de desempeño comercial y rentabilidad
+            mediante T-SQL y Databricks SQL.
 
       - company: Intelica Consulting
         position: Data Analytics Engineer
@@ -105,15 +116,16 @@ cv:
 
     Certificaciones:
       - bullet: "**Pricing & Revenue Management** — Pacifico Business School"
-      - bullet: "**AI Engineer Diplomado** — DMC Perú (en curso)"
 
     Habilidades:
       - label: IA / GenAI
-        details: LLMs, Claude (Anthropic), Prompt Engineering, Agentic AI, Databricks, MLflow
+        details: LLMs, Claude (Anthropic), Agentes IA, Prompt Engineering, Agentic AI, Azure Databricks, MLflow
+      - label: Producto & Delivery
+        details: Product Ownership, Gestión de Roadmap, MLOps, Observabilidad, Agile/Scrum
       - label: Programación
         details: Python (Pandas, Polars, Scikit-Learn, XGBoost, PySpark), R, SQL
       - label: Bases de Datos
-        details: Oracle PL/SQL, SQL Server, MySQL, Databricks SQL
+        details: Oracle PL/SQL, SQL Server, MySQL, T-SQL, Databricks SQL
       - label: Visualización
         details: Power BI, Tableau, Matplotlib, Plotly
       - label: Cloud & Herramientas
@@ -150,6 +162,11 @@ design:
     font_size:
       body: 8pt
       name: 29pt
+  sections:
+    space_between_regular_entries: 0.8em
+  section_titles:
+    space_above: 0.4cm
+    space_below: 0.22cm
 
 locale:
   language: spanish

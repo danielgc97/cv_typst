@@ -7,20 +7,22 @@
 
 
 # Summary
-Senior Data Analyst & AI Engineer with experience in financial analytics, machine learning, and enterprise GenAI solutions in banking. Currently leading AI initiatives at BCP, including the end-to-end design and deployment of a conversational AI agent for wholesale banking using Databricks, LangGraph, MLflow, and Claude Sonnet. Combines business, analytics, and data engineering expertise to build scalable data products, predictive models, and AI systems that improve operational efficiency and decision-making. Interested in international opportunities in AI Engineering, Machine Learning, and Data Platforms.
+AI Engineer & Product Owner with a fast-track career path at BCP (promoted from Data Analyst to Assistant Manager within 1.5 years), specialized in the end-to-end design, deployment, and governance of generative AI solutions for wholesale banking. Currently serving as Product Owner, leading the architecture, production release, and traceability/monitoring of an LLM-powered conversational agent (Claude Sonnet, Anthropic) on Azure Databricks, with MLflow for model lifecycle management, used by more than 200 internal wholesale banking users. Combines hands-on experience in machine learning, predictive modeling, data engineering, and AI agents using Python, SQL, PySpark, and Power BI. Seeking international opportunities in Data Science and AI Engineering.
 
 # Experience
-## **Senior Data Analyst & AI Engineer**, Banco de Crédito del Perú (BCP) -- Lima, Peru
+## **Data & AI Engineer, Assistant Manager**, Banco de Crédito del Perú (BCP) -- Lima, Peru
 
 May 2025 – Present
 
-- Built the architecture of an enterprise conversational AI agent, including entity resolution, multi-intent routing, tool orchestration, serving, and observability, improving accuracy, traceability, and operational robustness.
+- Fast-track career path from Data Analyst to Assistant Manager within 1.5 years (Staff → Senior → Assistant Manager), currently serving as Product Owner (PO) of the bank's conversational AI solution.
 
-- Designed and deployed an end-to-end LLM-powered conversational agent for wholesale banking using Databricks, LangGraph, MLflow, and Claude Sonnet, reducing analysis time from hours or days to approximately 45 seconds for more than 200 projected users.
+- End-to-end ownership of the release cycle, production deployment, and traceability of an LLM-powered conversational agent (Claude Sonnet, Anthropic) for more than 200 internal wholesale banking users, using Azure Databricks.
 
-- Automated extraction, transformation, and analytical pipelines using SQL, Python, and Databricks, reducing operational workload and manual processes.
+- Designed the agent's architecture, including entity resolution, multi-intent routing, and tool orchestration, and implemented MLOps practices and MLflow for versioning, monitoring, and traceability of models in production.
 
-- Developed dashboards and analytical solutions for pricing, commercial performance, profitability, and strategic metrics monitoring.
+- Defined the product roadmap and backlog prioritization, and established observability and service quality metrics (adoption, latency, accuracy) to ensure the solution's reliability.
+
+- Designed predictive models for rate optimization and pricing analysis, and developed analytical dashboards for commercial performance and profitability using T-SQL and Databricks SQL.
 
 
 
@@ -31,8 +33,6 @@ Jan 2025 – May 2025
 - Developed ETL processes into a Data Warehouse using SQL Server stored procedures and relational data modeling.
 
 - Automated analytical reporting for credit and debit card portfolio monitoring, improving data availability and operational control.
-
-- Contributed to data solutions focused on reporting and business analytics.
 
 
 
@@ -66,15 +66,13 @@ May 2023 – Mar 2024
 
 Nov 2024 – May 2026
 
-- Delivered Python and SQL courses focused on analytics, applied statistics, automation, and data storytelling.
-
-- Designed practical business-oriented learning sessions for data professionals.
+- Delivered Python and SQL courses focused on analytics, applied statistics, and data storytelling.
 
 
 
 # Education
 ## **Universidad Nacional de Ingeniería (UNI)**, Specialization Program in Business Intelligence & Business Analytics -- Lima, Peru
-Nov 2024 – May 2026
+Jan 2024 – Jan 2025
 
 - GPA: Above 18/20
 
@@ -92,16 +90,16 @@ Jan 2019 – Dec 2024
 # Certifications
 - **Pricing & Revenue Management** — Pacifico Business School
 
-- **AI Engineer Diploma Program** — DMC Perú (In Progress)
-
 # Skills
-**AI / GenAI:** LLMs, Agentic AI, Prompt Engineering, LangGraph, Claude Sonnet, Databricks, MLflow
+**AI / GenAI:** LLMs, Agentic AI, Prompt Engineering, Claude Sonnet, Azure Databricks, MLflow
+
+**Product & Delivery:** Product Ownership, Roadmap Management, MLOps, Observability, Agile/Scrum
 
 **Machine Learning:** Scikit-Learn, XGBoost, Logistic Regression, Predictive Modeling, Model Evaluation
 
 **Programming & Data:** Python, SQL, PySpark, Pandas, Polars, R
 
-**Databases:** Databricks SQL, SQL Server, Oracle PL/SQL, MySQL
+**Databases:** Databricks SQL, SQL Server, Oracle PL/SQL, MySQL, T-SQL
 
 **BI & Visualization:** Power BI, Tableau, Plotly, Matplotlib
 

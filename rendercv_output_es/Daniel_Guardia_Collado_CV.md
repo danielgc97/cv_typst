@@ -7,20 +7,22 @@
 
 
 # Resumen
-Senior Data Analyst & AI Engineer con experiencia en analytics financiero, machine learning y soluciones GenAI dentro de BCP. Lideré el desarrollo y despliegue de un agente conversacional basado en LLMs para más de 200 usuarios de banca mayorista utilizando Databricks y Claude Sonnet (Anthropic). Experiencia en automatización de pipelines de datos, modelamiento predictivo y analítica de negocio utilizando Python, SQL, Polars y Power BI. Interesado en oportunidades internacionales orientadas a AI Engineering, Machine Learning y Data Platforms.
+AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a Subgerente Adjunto en 1 año y medio), especializado en el diseño, despliegue y gobierno end-to-end de soluciones de IA generativa para banca mayorista. Actualmente lidero como Product Owner la arquitectura, puesta en producción y trazabilidad de un agente conversacional basado en LLMs (Claude Sonnet, Anthropic) sobre Azure Databricks, con MLflow para la gestión del ciclo de vida de modelos, utilizado por más de 200 usuarios internos de banca mayorista. Experiencia combinada en machine learning, modelamiento predictivo, ingeniería de datos y agentes de IA utilizando Python, SQL, PySpark y Power BI. Interesado en oportunidades internacionales orientadas a Data Science y AI Engineering.
 
 # Experiencia
-## **Senior Data Analyst & AI Engineer**, Banco de Crédito del Perú (BCP) -- Lima, Perú
+## **Data & AI Engineer, Subgerente Adjunto**, Banco de Crédito del Perú (BCP) -- Lima, Perú
 
 May 2025 – Presente
 
-- Desarrollo y despliegue end-to-end de un agente conversacional basado en LLMs para más de 200 usuarios de banca mayorista utilizando Databricks y Claude Sonnet (Anthropic).
+- Trayectoria ascendente de Data Analyst a Subgerente Adjunto en 1 año y medio (Staff → Senior → Subgerente Adjunto), asumiendo actualmente el rol de Product Owner (PO) de la solución de IA conversacional del banco.
 
-- Automatización de pipelines de extracción, transformación y análisis de datos mediante SQL, Python y Databricks, optimizando tiempos operativos y reduciendo trabajo manual.
+- Responsabilidad end-to-end sobre el ciclo de release, despliegue a producción y trazabilidad de un agente conversacional basado en LLMs (Claude Sonnet, Anthropic) para más de 200 usuarios internos de banca mayorista, utilizando Azure Databricks.
 
-- Diseño e implementación de modelos predictivos para optimización de tasas y evaluación de comportamiento de clientes.
+- Diseño de la arquitectura del agente, incluyendo resolución de entidades, enrutamiento multi-intención y orquestación de herramientas (tool calling), e implementación de prácticas de MLOps y MLflow para versionado, monitoreo y trazabilidad de modelos en producción.
 
-- Construcción de dashboards analíticos para monitoreo de desempeño comercial, rentabilidad y métricas estratégicas de Banca Mayorista.
+- Definición de roadmap, priorización de backlog y métricas de observabilidad y calidad de servicio (adopción, latencia, precisión) para garantizar la confiabilidad de la solución.
+
+- Diseño de modelos predictivos para optimización de tasas y análisis de precios, y construcción de dashboards analíticos de desempeño comercial y rentabilidad mediante T-SQL y Databricks SQL.
 
 
 
@@ -86,14 +88,14 @@ Ene 2019 – Dic 2024
 # Certificaciones
 - **Pricing & Revenue Management** — Pacifico Business School
 
-- **AI Engineer Diplomado** — DMC Perú (en curso)
-
 # Habilidades
-**IA / GenAI:** LLMs, Claude (Anthropic), Prompt Engineering, Agentic AI, Databricks, MLflow
+**IA / GenAI:** LLMs, Claude (Anthropic), Agentes IA, Prompt Engineering, Agentic AI, Azure Databricks, MLflow
+
+**Producto & Delivery:** Product Ownership, Gestión de Roadmap, MLOps, Observabilidad, Agile/Scrum
 
 **Programación:** Python (Pandas, Polars, Scikit-Learn, XGBoost, PySpark), R, SQL
 
-**Bases de Datos:** Oracle PL/SQL, SQL Server, MySQL, Databricks SQL
+**Bases de Datos:** Oracle PL/SQL, SQL Server, MySQL, T-SQL, Databricks SQL
 
 **Visualización:** Power BI, Tableau, Matplotlib, Plotly
 
