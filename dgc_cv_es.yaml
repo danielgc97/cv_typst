@@ -13,7 +13,7 @@ cv:
 
   sections:
     Resumen:
-      - "AI Engineer & Product Owner en BCP, liderando un agente conversacional basado en LLMs
+      - "AI Engineer en BCP, liderando end-to-end un agente conversacional basado en LLMs
         en producción para más de 200 usuarios de banca mayorista sobre Azure Databricks y
         MLflow. Experiencia en machine learning, modelamiento predictivo e ingeniería de datos
         (Python, SQL, PySpark) en banca y consultoría. Interesado en oportunidades
@@ -26,8 +26,8 @@ cv:
         end_date: present
         location: Lima, Perú
         highlights:
-          - Product Owner del agente conversacional basado en LLMs del banco (Claude Sonnet,
-            Anthropic) sobre Azure Databricks, con responsabilidad sobre el ciclo de release,
+          - Liderazgo end-to-end del agente conversacional basado en LLMs del banco (Claude
+            Sonnet, Anthropic) sobre Azure Databricks, con responsabilidad sobre el ciclo de release,
             despliegue a producción y trazabilidad para más de 200 usuarios internos de banca
             mayorista.
           - Aumento de 20% en la productividad de los equipos de banca mayorista, reduciendo
@@ -128,7 +128,7 @@ cv:
       - label: IA / GenAI
         details: LLMs, Agentes IA, Tool Calling, Prompt Engineering, MLflow, Azure Databricks
       - label: Producto & Delivery
-        details: Product Ownership, Gestión de Roadmap, MLOps, Observabilidad, Agile/Scrum
+        details: Gestión de Roadmap, Priorización de Backlog, MLOps, Observabilidad, Agile/Scrum
       - label: Machine Learning
         details: Scikit-Learn, XGBoost, Regresión Logística, Modelamiento Predictivo, Evaluación de Modelos
       - label: Programación & Datos

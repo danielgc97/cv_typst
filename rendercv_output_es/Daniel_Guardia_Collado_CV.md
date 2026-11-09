@@ -8,14 +8,14 @@
 
 
 # Resumen
-AI Engineer & Product Owner en BCP, liderando un agente conversacional basado en LLMs en producción para más de 200 usuarios de banca mayorista sobre Azure Databricks y MLflow. Experiencia en machine learning, modelamiento predictivo e ingeniería de datos (Python, SQL, PySpark) en banca y consultoría. Interesado en oportunidades internacionales de Data Science y AI Engineering.
+AI Engineer en BCP, liderando end-to-end un agente conversacional basado en LLMs en producción para más de 200 usuarios de banca mayorista sobre Azure Databricks y MLflow. Experiencia en machine learning, modelamiento predictivo e ingeniería de datos (Python, SQL, PySpark) en banca y consultoría. Interesado en oportunidades internacionales de Data Science y AI Engineering.
 
 # Experiencia
 ## **Data & AI Engineer, Subgerente Adjunto**, Banco de Crédito del Perú (BCP) -- Lima, Perú
 
 Sep 2026 – Presente
 
-- Product Owner del agente conversacional basado en LLMs del banco (Claude Sonnet, Anthropic) sobre Azure Databricks, con responsabilidad sobre el ciclo de release, despliegue a producción y trazabilidad para más de 200 usuarios internos de banca mayorista.
+- Liderazgo end-to-end del agente conversacional basado en LLMs del banco (Claude Sonnet, Anthropic) sobre Azure Databricks, con responsabilidad sobre el ciclo de release, despliegue a producción y trazabilidad para más de 200 usuarios internos de banca mayorista.
 
 - Aumento de 20% en la productividad de los equipos de banca mayorista, reduciendo el tiempo en tareas operativas y agilizando la gestión de leads y oportunidades.
 
@@ -105,7 +105,7 @@ Ene 2024 – Ene 2025
 # Habilidades
 **IA / GenAI:** LLMs, Agentes IA, Tool Calling, Prompt Engineering, MLflow, Azure Databricks
 
-**Producto & Delivery:** Product Ownership, Gestión de Roadmap, MLOps, Observabilidad, Agile/Scrum
+**Producto & Delivery:** Gestión de Roadmap, Priorización de Backlog, MLOps, Observabilidad, Agile/Scrum
 
 **Machine Learning:** Scikit-Learn, XGBoost, Regresión Logística, Modelamiento Predictivo, Evaluación de Modelos
 

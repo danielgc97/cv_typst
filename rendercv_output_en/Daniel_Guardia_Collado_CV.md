@@ -8,14 +8,14 @@
 
 
 # Summary
-AI Engineer & Product Owner at BCP, leading an LLM-powered conversational agent in production for 200+ wholesale banking users on Azure Databricks and MLflow. Background in machine learning, predictive modeling, and data engineering (Python, SQL, PySpark) across banking and consulting. Open to international Data Science and AI Engineering roles.
+AI Engineer at BCP, leading end-to-end delivery of an LLM-powered conversational agent in production for 200+ wholesale banking users on Azure Databricks and MLflow. Background in machine learning, predictive modeling, and data engineering (Python, SQL, PySpark) across banking and consulting. Open to international Data Science and AI Engineering roles.
 
 # Experience
 ## **Data & AI Engineer, Assistant Manager**, Banco de Crédito del Perú (BCP) -- Lima, Peru
 
 Sept 2026 – Present
 
-- Product Owner of the bank's LLM-powered conversational agent (Claude Sonnet, Anthropic) on Azure Databricks, owning the release cycle, production deployment, and traceability for 200+ internal wholesale banking users.
+- Led end-to-end delivery of the bank's LLM-powered conversational agent (Claude Sonnet, Anthropic) on Azure Databricks, owning the release cycle, production deployment, and traceability for 200+ internal wholesale banking users.
 
 - Increased the productivity of wholesale banking teams by 20%, reducing time spent on operational tasks and streamlining lead and opportunity management.
 
@@ -105,7 +105,7 @@ Jan 2024 – Jan 2025
 # Skills
 **AI / GenAI:** LLMs, AI Agents, Tool Calling, Prompt Engineering, MLflow, Azure Databricks
 
-**Product & Delivery:** Product Ownership, Roadmap Management, MLOps, Observability, Agile/Scrum
+**Product & Delivery:** Roadmap Management, Backlog Prioritization, MLOps, Observability, Agile/Scrum
 
 **Machine Learning:** Scikit-Learn, XGBoost, Logistic Regression, Predictive Modeling, Model Evaluation
 
