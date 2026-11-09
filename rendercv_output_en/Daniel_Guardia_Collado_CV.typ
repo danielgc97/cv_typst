@@ -32,7 +32,7 @@
   typography-font-family-headline: "Source Sans 3",
   typography-font-family-connections: "Montserrat",
   typography-font-family-section-titles: "Montserrat",
-  typography-font-size-body: 8pt,
+  typography-font-size-body: 8.5pt,
   typography-font-size-name: 29pt,
   typography-font-size-headline: 10pt,
   typography-font-size-connections: 10pt,
@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 11,
-    day: 4,
+    day: 8,
   ),
 )
 
@@ -89,6 +89,7 @@
 = Daniel Guardia Collado
 
 #connections(
+  [#connection-with-icon("location-dot")[Lima, Peru]],
   [#link("mailto:dguardiacollado@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[dguardiacollado\@gmail.com]]],
   [#link("tel:+51-959-070-464", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[959 070 464]]],
   [#link("https://linkedin.com/in/danielguardiac", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[danielguardiac]]],
@@ -98,7 +99,7 @@
 
 == Summary
 
-AI Engineer & Product Owner with a fast-track career path at BCP (promoted from Data Analyst to Assistant Manager within 1.5 years), specialized in the end-to-end design, deployment, and governance of generative AI solutions for wholesale banking. Currently serving as Product Owner, leading the architecture, production release, and traceability\/monitoring of an LLM-powered conversational agent (Claude Sonnet, Anthropic) on Azure Databricks, with MLflow for model lifecycle management, used by more than 200 internal wholesale banking users. Combines hands-on experience in machine learning, predictive modeling, data engineering, and AI agents using Python, SQL, PySpark, and Power BI. Seeking international opportunities in Data Science and AI Engineering.
+AI Engineer & Product Owner at BCP, leading an LLM-powered conversational agent in production for 200+ wholesale banking users on Azure Databricks and MLflow. Background in machine learning, predictive modeling, and data engineering (Python, SQL, PySpark) across banking and consulting. Open to international Data Science and AI Engineering roles.
 
 == Experience
 
@@ -108,19 +109,49 @@ AI Engineer & Product Owner with a fast-track career path at BCP (promoted from 
 
   ],
   [
-    May 2025 – Present
+    Sept 2026 – Present
 
   ],
   main-column-second-row: [
-    - Fast-track career path from Data Analyst to Assistant Manager within 1.5 years (Staff → Senior → Assistant Manager), currently serving as Product Owner (PO) of the bank's conversational AI solution.
+    - Product Owner of the bank's LLM-powered conversational agent (Claude Sonnet, Anthropic) on Azure Databricks, owning the release cycle, production deployment, and traceability for 200+ internal wholesale banking users.
 
-    - End-to-end ownership of the release cycle, production deployment, and traceability of an LLM-powered conversational agent (Claude Sonnet, Anthropic) for more than 200 internal wholesale banking users, using Azure Databricks.
+    - Increased the productivity of wholesale banking teams by 20\%, reducing time spent on operational tasks and streamlining lead and opportunity management.
 
-    - Designed the agent's architecture, including entity resolution, multi-intent routing, and tool orchestration, and implemented MLOps practices and MLflow for versioning, monitoring, and traceability of models in production.
+    - Implemented MLOps practices with MLflow for versioning, monitoring, and traceability of models in production.
 
-    - Defined the product roadmap and backlog prioritization, and established observability and service quality metrics (adoption, latency, accuracy) to ensure the solution's reliability.
+    - Defined the product roadmap and backlog prioritization, and established observability and service quality metrics (adoption, latency, accuracy).
 
-    - Designed predictive models for rate optimization and pricing analysis, and developed analytical dashboards for commercial performance and profitability using T-SQL and Databricks SQL.
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Data & AI Analyst, Senior], Banco de Crédito del Perú (BCP) -- Lima, Peru
+
+  ],
+  [
+    Jan 2026 – Aug 2026
+
+  ],
+  main-column-second-row: [
+    - Designed the conversational agent's architecture, including entity resolution, multi-intent routing, and tool orchestration.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Data Analyst, Staff], Banco de Crédito del Perú (BCP) -- Lima, Peru
+
+  ],
+  [
+    May 2025 – Dec 2025
+
+  ],
+  main-column-second-row: [
+    - Designed predictive models for rate optimization and pricing analysis.
+
+    - Built analytical dashboards for commercial performance and profitability using T-SQL and Databricks SQL.
 
   ],
 )
@@ -154,7 +185,7 @@ AI Engineer & Product Owner with a fast-track career path at BCP (promoted from 
   main-column-second-row: [
     - Automated ETL processes using Power Automate and Databricks to support statistical models and recurring analytical workflows.
 
-    - Integrated Experian APIs with PySpark for credit score extraction, significantly reducing processing times.
+    - Integrated Experian APIs with PySpark to automate credit score extraction, replacing manual steps and reducing processing times.
 
     - Developed advanced Databricks SQL queries for regulatory reporting to the SBS.
 
@@ -173,7 +204,7 @@ AI Engineer & Product Owner with a fast-track career path at BCP (promoted from 
 
   ],
   main-column-second-row: [
-    - Optimized analytical and pricing methodologies that generated more than USD 3M in incremental revenue for financial institutions across Latin America.
+    - Contributed to analytical and pricing methodologies that generated more than USD 3M in incremental revenue for financial institutions across Latin America.
 
     - Developed propensity models in Python using Logistic Regression and validated results through A\/B testing.
 
@@ -201,22 +232,7 @@ AI Engineer & Product Owner with a fast-track career path at BCP (promoted from 
 
 #education-entry(
   [
-    #strong[Universidad Nacional de Ingeniería (UNI)], Specialization Program in Business Intelligence & Business Analytics -- Lima, Peru
-
-  ],
-  [
-    Jan 2024 – Jan 2025
-
-  ],
-  main-column-second-row: [
-    - GPA: Above 18\/20
-
-  ],
-)
-
-#education-entry(
-  [
-    #strong[Universidad Peruana de Ciencias Aplicadas (UPC)], Bachelor's Degree in Finance with Data Science Specialization -- Lima, Peru
+    #strong[Universidad Peruana de Ciencias Aplicadas (UPC)], Bachelor's in Finance with Data Science Specialization -- Lima, Peru
 
   ],
   [
@@ -224,20 +240,38 @@ AI Engineer & Product Owner with a fast-track career path at BCP (promoted from 
 
   ],
   main-column-second-row: [
-    - GPA: Above 16\/20
-
-    - Dean's List and Top 10\% of class
+    - Dean's List, Top 10\% of class
 
   ],
 )
 
-== Certifications
+#education-entry(
+  [
+    #strong[Universidad Nacional de Ingeniería (UNI)], Specialization in Business Intelligence & Business Analytics -- Lima, Peru
 
-- #strong[Pricing & Revenue Management] — Pacifico Business School
+  ],
+  [
+    Jan 2024 – Jan 2025
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #education-entry(
+  [
+    #strong[Pacifico Business School], Certificate in Pricing & Revenue Management
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
 
 == Skills
 
-#strong[AI \/ GenAI:] LLMs, Agentic AI, Prompt Engineering, Claude Sonnet, Azure Databricks, MLflow
+#strong[AI \/ GenAI:] LLMs, AI Agents, Tool Calling, Prompt Engineering, MLflow, Azure Databricks
 
 #strong[Product & Delivery:] Product Ownership, Roadmap Management, MLOps, Observability, Agile\/Scrum
 

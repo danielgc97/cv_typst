@@ -32,7 +32,7 @@
   typography-font-family-headline: "Source Sans 3",
   typography-font-family-connections: "Montserrat",
   typography-font-family-section-titles: "Montserrat",
-  typography-font-size-body: 8pt,
+  typography-font-size-body: 8.5pt,
   typography-font-size-name: 29pt,
   typography-font-size-headline: 10pt,
   typography-font-size-connections: 10pt,
@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 11,
-    day: 4,
+    day: 8,
   ),
 )
 
@@ -89,6 +89,7 @@
 = Daniel Guardia Collado
 
 #connections(
+  [#connection-with-icon("location-dot")[Lima, Perú]],
   [#link("mailto:dguardiacollado@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[dguardiacollado\@gmail.com]]],
   [#link("tel:+51-959-070-464", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[959 070 464]]],
   [#link("https://linkedin.com/in/danielguardiac", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[danielguardiac]]],
@@ -98,7 +99,7 @@
 
 == Resumen
 
-AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a Subgerente Adjunto en 1 año y medio), especializado en el diseño, despliegue y gobierno end-to-end de soluciones de IA generativa para banca mayorista. Actualmente lidero como Product Owner la arquitectura, puesta en producción y trazabilidad de un agente conversacional basado en LLMs (Claude Sonnet, Anthropic) sobre Azure Databricks, con MLflow para la gestión del ciclo de vida de modelos, utilizado por más de 200 usuarios internos de banca mayorista. Experiencia combinada en machine learning, modelamiento predictivo, ingeniería de datos y agentes de IA utilizando Python, SQL, PySpark y Power BI. Interesado en oportunidades internacionales orientadas a Data Science y AI Engineering.
+AI Engineer & Product Owner en BCP, liderando un agente conversacional basado en LLMs en producción para más de 200 usuarios de banca mayorista sobre Azure Databricks y MLflow. Experiencia en machine learning, modelamiento predictivo e ingeniería de datos (Python, SQL, PySpark) en banca y consultoría. Interesado en oportunidades internacionales de Data Science y AI Engineering.
 
 == Experiencia
 
@@ -108,19 +109,49 @@ AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a
 
   ],
   [
-    May 2025 – Presente
+    Sep 2026 – Presente
 
   ],
   main-column-second-row: [
-    - Trayectoria ascendente de Data Analyst a Subgerente Adjunto en 1 año y medio (Staff → Senior → Subgerente Adjunto), asumiendo actualmente el rol de Product Owner (PO) de la solución de IA conversacional del banco.
+    - Product Owner del agente conversacional basado en LLMs del banco (Claude Sonnet, Anthropic) sobre Azure Databricks, con responsabilidad sobre el ciclo de release, despliegue a producción y trazabilidad para más de 200 usuarios internos de banca mayorista.
 
-    - Responsabilidad end-to-end sobre el ciclo de release, despliegue a producción y trazabilidad de un agente conversacional basado en LLMs (Claude Sonnet, Anthropic) para más de 200 usuarios internos de banca mayorista, utilizando Azure Databricks.
+    - Aumento de 20\% en la productividad de los equipos de banca mayorista, reduciendo el tiempo en tareas operativas y agilizando la gestión de leads y oportunidades.
 
-    - Diseño de la arquitectura del agente, incluyendo resolución de entidades, enrutamiento multi-intención y orquestación de herramientas (tool calling), e implementación de prácticas de MLOps y MLflow para versionado, monitoreo y trazabilidad de modelos en producción.
+    - Implementación de prácticas de MLOps con MLflow para versionado, monitoreo y trazabilidad de modelos en producción.
 
-    - Definición de roadmap, priorización de backlog y métricas de observabilidad y calidad de servicio (adopción, latencia, precisión) para garantizar la confiabilidad de la solución.
+    - Definición de roadmap, priorización de backlog y métricas de observabilidad y calidad de servicio (adopción, latencia, precisión).
 
-    - Diseño de modelos predictivos para optimización de tasas y análisis de precios, y construcción de dashboards analíticos de desempeño comercial y rentabilidad mediante T-SQL y Databricks SQL.
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Data & AI Analyst, Senior], Banco de Crédito del Perú (BCP) -- Lima, Perú
+
+  ],
+  [
+    Ene 2026 – Ago 2026
+
+  ],
+  main-column-second-row: [
+    - Diseño de la arquitectura del agente conversacional, incluyendo resolución de entidades, enrutamiento multi-intención y orquestación de herramientas (tool calling).
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Data Analyst, Staff], Banco de Crédito del Perú (BCP) -- Lima, Perú
+
+  ],
+  [
+    May 2025 – Dic 2025
+
+  ],
+  main-column-second-row: [
+    - Diseño de modelos predictivos para optimización de tasas y análisis de precios.
+
+    - Construcción de dashboards analíticos de desempeño comercial y rentabilidad mediante T-SQL y Databricks SQL.
 
   ],
 )
@@ -152,9 +183,9 @@ AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a
 
   ],
   main-column-second-row: [
-    - Automatización de procesos ETL utilizando Power Automate para abastecimiento de modelos estadísticos y procesos analíticos.
+    - Automatización de procesos ETL utilizando Power Automate y Databricks para abastecimiento de modelos estadísticos y procesos analíticos.
 
-    - Integración de APIs de Experian mediante PySpark para extracción de scores crediticios, reduciendo significativamente tiempos de procesamiento.
+    - Integración de APIs de Experian mediante PySpark para automatizar la extracción de scores crediticios, eliminando pasos manuales y reduciendo tiempos de procesamiento.
 
     - Desarrollo de consultas avanzadas en Databricks SQL para reportería regulatoria a la SBS.
 
@@ -173,7 +204,7 @@ AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a
 
   ],
   main-column-second-row: [
-    - Benchmark y optimización de metodologías analíticas generando más de USD 3M en ingresos marginales para entidades financieras en Latinoamérica.
+    - Contribución a la optimización de metodologías analíticas y de pricing que generaron más de USD 3M en ingresos incrementales para entidades financieras en Latinoamérica.
 
     - Desarrollo de modelos de propensión en Python utilizando regresión logística y validación mediante pruebas A\/B.
 
@@ -184,7 +215,7 @@ AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a
 
 #regular-entry(
   [
-    #strong[Python & SQL Instructor], DMC Perú -- Lima, Perú
+    #strong[Python & SQL Instructor (Part-time)], DMC Perú -- Lima, Perú
 
   ],
   [
@@ -192,27 +223,12 @@ AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a
 
   ],
   main-column-second-row: [
-    - Docente part-time de Python y SQL con enfoque en analytics, estadística aplicada y data storytelling.
+    - Dictado de cursos de Python y SQL con enfoque en analytics, estadística aplicada y data storytelling.
 
   ],
 )
 
 == Educación
-
-#education-entry(
-  [
-    #strong[Universidad Nacional de Ingeniería (UNI)], Especialización en Business Intelligence & Business Analytics -- Lima, Perú
-
-  ],
-  [
-    Ene 2024 – Ene 2025
-
-  ],
-  main-column-second-row: [
-    - Promedio: Mayor a 18\/20
-
-  ],
-)
 
 #education-entry(
   [
@@ -224,27 +240,49 @@ AI Engineer & Product Owner con trayectoria ascendente en BCP (de Data Analyst a
 
   ],
   main-column-second-row: [
-    - Promedio: Mayor a 16\/20 — Lista del Decano, Décimo Superior
+    - Lista del Decano, Décimo Superior
 
   ],
 )
 
-== Certificaciones
+#education-entry(
+  [
+    #strong[Universidad Nacional de Ingeniería (UNI)], Especialización en Business Intelligence & Business Analytics -- Lima, Perú
 
-- #strong[Pricing & Revenue Management] — Pacifico Business School
+  ],
+  [
+    Ene 2024 – Ene 2025
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+  #education-entry(
+  [
+    #strong[Pacifico Business School], Certificado en Pricing & Revenue Management
+
+  ],
+  [
+  ],
+  main-column-second-row: [
+  ],
+)
 
 == Habilidades
 
-#strong[IA \/ GenAI:] LLMs, Claude (Anthropic), Agentes IA, Prompt Engineering, Agentic AI, Azure Databricks, MLflow
+#strong[IA \/ GenAI:] LLMs, Agentes IA, Tool Calling, Prompt Engineering, MLflow, Azure Databricks
 
 #strong[Producto & Delivery:] Product Ownership, Gestión de Roadmap, MLOps, Observabilidad, Agile\/Scrum
 
-#strong[Programación:] Python (Pandas, Polars, Scikit-Learn, XGBoost, PySpark), R, SQL
+#strong[Machine Learning:] Scikit-Learn, XGBoost, Regresión Logística, Modelamiento Predictivo, Evaluación de Modelos
 
-#strong[Bases de Datos:] Oracle PL\/SQL, SQL Server, MySQL, T-SQL, Databricks SQL
+#strong[Programación & Datos:] Python, SQL, PySpark, Pandas, Polars, R
 
-#strong[Visualización:] Power BI, Tableau, Matplotlib, Plotly
+#strong[Bases de Datos:] Databricks SQL, SQL Server, Oracle PL\/SQL, MySQL, T-SQL
 
-#strong[Cloud & Herramientas:] Azure, Databricks, Power Automate, Git, Model Serving
+#strong[BI & Visualización:] Power BI, Tableau, Plotly, Matplotlib
+
+#strong[Cloud & Herramientas:] Azure, Databricks Model Serving, Git, Power Automate
 
 #strong[Idiomas:] Español (nativo), Inglés (avanzado), Francés (avanzado), Portugués (intermedio)

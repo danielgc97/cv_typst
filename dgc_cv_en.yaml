@@ -2,6 +2,7 @@
 
 cv:
   name: Daniel Guardia Collado
+  location: Lima, Peru
   email: dguardiacollado@gmail.com
   phone: +51-959070464
   social_networks:
@@ -12,30 +13,43 @@ cv:
 
   sections:
     Summary:
-      - "AI Engineer & Product Owner with a fast-track career path at BCP (promoted from Data Analyst to Assistant Manager within 1.5 years), specialized in the end-to-end design, deployment, and governance of generative AI solutions for wholesale banking. Currently serving as Product Owner, leading the architecture, production release, and traceability/monitoring of an LLM-powered conversational agent (Claude Sonnet, Anthropic) on Azure Databricks, with MLflow for model lifecycle management, used by more than 200 internal wholesale banking users. Combines hands-on experience in machine learning, predictive modeling, data engineering, and AI agents using Python, SQL, PySpark, and Power BI. Seeking international opportunities in Data Science and AI Engineering."
+      - "AI Engineer & Product Owner at BCP, leading an LLM-powered conversational agent in production for 200+ wholesale banking users on Azure Databricks and MLflow. Background in machine learning, predictive modeling, and data engineering (Python, SQL, PySpark) across banking and consulting. Open to international Data Science and AI Engineering roles."
 
     Experience:
       - company: Banco de Crédito del Perú (BCP)
         position: Data & AI Engineer, Assistant Manager
-        start_date: 2025-05
+        start_date: 2026-09
         end_date: present
         location: Lima, Peru
         highlights:
-          - Fast-track career path from Data Analyst to Assistant Manager within 1.5 years
-            (Staff → Senior → Assistant Manager), currently serving as Product Owner (PO)
-            of the bank's conversational AI solution.
-          - End-to-end ownership of the release cycle, production deployment, and
-            traceability of an LLM-powered conversational agent (Claude Sonnet, Anthropic)
-            for more than 200 internal wholesale banking users, using Azure Databricks.
-          - Designed the agent's architecture, including entity resolution, multi-intent
-            routing, and tool orchestration, and implemented MLOps practices and MLflow for
-            versioning, monitoring, and traceability of models in production.
+          - Product Owner of the bank's LLM-powered conversational agent (Claude Sonnet,
+            Anthropic) on Azure Databricks, owning the release cycle, production deployment,
+            and traceability for 200+ internal wholesale banking users.
+          - Increased the productivity of wholesale banking teams by 20%, reducing time spent
+            on operational tasks and streamlining lead and opportunity management.
+          - Implemented MLOps practices with MLflow for versioning, monitoring, and
+            traceability of models in production.
           - Defined the product roadmap and backlog prioritization, and established
-            observability and service quality metrics (adoption, latency, accuracy) to
-            ensure the solution's reliability.
-          - Designed predictive models for rate optimization and pricing analysis, and
-            developed analytical dashboards for commercial performance and profitability
-            using T-SQL and Databricks SQL.
+            observability and service quality metrics (adoption, latency, accuracy).
+
+      - company: Banco de Crédito del Perú (BCP)
+        position: Data & AI Analyst, Senior
+        start_date: 2026-01
+        end_date: 2026-08
+        location: Lima, Peru
+        highlights:
+          - Designed the conversational agent's architecture, including entity resolution,
+            multi-intent routing, and tool orchestration.
+
+      - company: Banco de Crédito del Perú (BCP)
+        position: Data Analyst, Staff
+        start_date: 2025-05
+        end_date: 2025-12
+        location: Lima, Peru
+        highlights:
+          - Designed predictive models for rate optimization and pricing analysis.
+          - Built analytical dashboards for commercial performance and profitability using
+            T-SQL and Databricks SQL.
 
       - company: Intelica Consulting
         position: Data Analytics Engineer
@@ -53,7 +67,7 @@ cv:
         location: Lima, Peru
         highlights:
           - Automated ETL processes using Power Automate and Databricks to support statistical models and recurring analytical workflows.
-          - Integrated Experian APIs with PySpark for credit score extraction, significantly reducing processing times.
+          - Integrated Experian APIs with PySpark to automate credit score extraction, replacing manual steps and reducing processing times.
           - Developed advanced Databricks SQL queries for regulatory reporting to the SBS.
           - Implemented XGBoost and Logistic Regression models for payment default prediction.
 
@@ -63,7 +77,7 @@ cv:
         end_date: 2024-03
         location: Lima, Peru
         highlights:
-          - Optimized analytical and pricing methodologies that generated more than USD 3M in incremental revenue for financial institutions across Latin America.
+          - Contributed to analytical and pricing methodologies that generated more than USD 3M in incremental revenue for financial institutions across Latin America.
           - Developed propensity models in Python using Logistic Regression and validated results through A/B testing.
           - Conducted SQL and Power BI analyses to improve financial processes in Peru, Mexico, Canada, and Panama.
 
@@ -76,31 +90,29 @@ cv:
           - Delivered Python and SQL courses focused on analytics, applied statistics, and data storytelling.
 
     Education:
-      - institution: Universidad Nacional de Ingeniería (UNI)
-        area: Business Intelligence & Business Analytics
-        degree: Specialization Program
-        start_date: 2024-01
-        end_date: 2025-01
-        location: Lima, Peru
-        highlights:
-          - "GPA: Above 18/20"
-
       - institution: Universidad Peruana de Ciencias Aplicadas (UPC)
         area: Finance with Data Science Specialization
-        degree: Bachelor's Degree
+        degree: Bachelor's
         start_date: 2019-01
         end_date: 2024-12
         location: Lima, Peru
         highlights:
-          - "GPA: Above 16/20"
-          - "Dean's List and Top 10% of class"
+          - "Dean's List, Top 10% of class"
 
-    Certifications:
-      - bullet: "**Pricing & Revenue Management** — Pacifico Business School"
+      - institution: Universidad Nacional de Ingeniería (UNI)
+        area: Business Intelligence & Business Analytics
+        degree: Specialization
+        start_date: 2024-01
+        end_date: 2025-01
+        location: Lima, Peru
+
+      - institution: Pacifico Business School
+        area: Pricing & Revenue Management
+        degree: Certificate
 
     Skills:
       - label: AI / GenAI
-        details: LLMs, Agentic AI, Prompt Engineering, Claude Sonnet, Azure Databricks, MLflow
+        details: LLMs, AI Agents, Tool Calling, Prompt Engineering, MLflow, Azure Databricks
       - label: Product & Delivery
         details: Product Ownership, Roadmap Management, MLOps, Observability, Agile/Scrum
       - label: Machine Learning
@@ -143,7 +155,7 @@ design:
       connections: Montserrat
       section_titles: Montserrat
     font_size:
-      body: 8pt
+      body: 8.5pt
       name: 29pt
   sections:
     space_between_regular_entries: 0.8em
